@@ -1,3 +1,38 @@
+#  Product Listing & Product Detail - Next.js
+##  Student Information
+- Full Name: THAI NGOC THI
+- Student ID: N23DCCN126
+
+---
+##  Project Description
+This project is a simple e-commerce web application built using Next.js.
+Lab 1 has been fully completed with all required functionalities, including:
+Creating two pages: a product list page and a product detail page Implementing responsive design for different devices
+Note: The code uses an external API that was not provided in the lab, as the original API server in the lab has crashed and is no longer available.
+###  Main Features:
+- Display product list (Product Listing)
+- Fetch data from external API (DummyJSON)
+- Responsive grid layout using Tailwind CSS
+- Product Detail page:
+  - Large product image
+  - Full product description
+  - Product price
+  - "Add to Cart" button
+---
+
+## Technologies Used
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- API: https://dummyjson.com/products
+
+---
+##  How to Run the Project
+npm install
+npm run dev
+
+##THEN OPEN : http://localhost:3000
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
